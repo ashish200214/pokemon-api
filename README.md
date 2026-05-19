@@ -112,6 +112,3 @@ npm run lint
 npm run build
 ```
 
-## Submission Notes
-
-Create a public GitHub repository containing this project, then reply to the original coding challenge email without changing the subject. Include the public GitHub repository link in the email body.
