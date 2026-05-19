@@ -1,4 +1,6 @@
 # Pokemon Pokedex Search
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/ca154082-b772-41a5-8c97-01847a555400" />
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/0fa267e6-cdb8-43e0-966f-874c51dabe82" />
 
 A local full-stack Pokedex application built for the coding challenge. The frontend lets users search Pokemon by name and renders rich details from a backend REST API. The backend fetches from PokeAPI, caches vendor responses, and serves a stable local API to the UI.
 
