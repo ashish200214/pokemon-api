@@ -1,0 +1,9 @@
+*.log
+*.out
+
+backend/pokemon/target/
+frontend/pokemon-frontend/node_modules/
+frontend/pokemon-frontend/dist/
+
+.DS_Store
+Thumbs.db
